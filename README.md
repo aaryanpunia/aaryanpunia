@@ -7,15 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch**
-
-- 👨‍💻 All of my projects are available at [https://www.aaryanpunia.com](https://www.aaryanpunia.com)
-
-- 💬 Ask me about **Node.js, React, and React Native**
-
 - 📫 How to reach me **aaryanpunia@berkeley.edu**
-
-- 📄 Know about my experiences [https://www.aaryanpunia.com](https://www.aaryanpunia.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
